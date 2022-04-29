@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-import { FaPaintRoller } from 'react-icons/fa';
 
 function Button({ children, version, type, isDisabled }) {
   return (
